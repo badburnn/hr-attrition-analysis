@@ -14,7 +14,7 @@ This project aims to:
 - present findings through clear visuals and business recommendations
 
 ## Dataset
-- **Source:** [Add dataset source here]
+- **Source:** HR Analytics
 - **Type:** HR employee dataset
 - **Format:** CSV / Excel
 - **Main fields used:** Attrition, Department, Job Role, Age, Monthly Income, OverTime, YearsAtCompany, JobSatisfaction
@@ -59,10 +59,10 @@ This project aims to:
 ![HR Attrition Dashboard](dashboard/dashboard_screenshot.png)
 
 ## Files in This Repository
-- `data/` → raw and cleaned datasets
+- `data/` → original dataset and future cleaned dataset
 - `sql/` → SQL queries used for analysis
-- `dashboard/` → dashboard screenshots or report files
-- `README.md` → project summary and findings
+- `dashboard/` → dashboard screenshots
+- `README.md` → project summary, findings, and recommendations
 
 ## Conclusion
 This project demonstrates how HR data can be used to identify attrition patterns and support better decision-making. It shows skills in data cleaning, analysis, visualization, and business communication.
